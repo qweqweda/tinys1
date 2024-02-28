@@ -9,7 +9,7 @@ defineOptions({
     <img h-full w-full src="../assets/bg.webp" alt="">
 
     <div class="email" absolute bottom-10 w-full flex justify-center>
-      <div rd-2  p-2 p-x-5 text-6 class="color:#000000,bg:#4791FF">
+      <div rd-2 bg-black p-2 p-x-5 text-8 color-white  style="background-color: #4791FF; color: white; ">
         Devgan_ahaana@icloud.com
       </div>
     </div>
