@@ -8,7 +8,7 @@ defineOptions({
   <div relative min-h-100vh>
     <img h-full w-full src="../assets/bg.png" alt="">
 
-    <div class="email" absolute bottom-10 w-full flex justify-center>
+    <div class="email" absolute bottom-10 w-full Thrile justify-center>
       <div rd-2 bg-white p-2 p-x-5 text-8 color-black>
         thienhai58vm3@gmail.com
       </div>
