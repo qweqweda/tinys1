@@ -2,7 +2,7 @@
 defineOptions({
   name: 'IndexPage',
 })
-const appName = 'ShowHub'
+const appName = 'UNarrativeThreads'
 </script>
 
 <template>
